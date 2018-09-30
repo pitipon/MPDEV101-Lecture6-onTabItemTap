@@ -1,0 +1,10 @@
+/* pages/post/post.wxss */
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500rpx;
+  width: 100%;
+  background-color: rgb(47, 196, 255);
+}
